@@ -1,2 +1,1 @@
-# Binancebot
-smart trading bot
+
